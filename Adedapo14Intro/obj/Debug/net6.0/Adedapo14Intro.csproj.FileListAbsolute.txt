@@ -12,3 +12,4 @@ C:\Users\AdedapoAluko(DM)\Dropbox (Leroy Haynes Center)\Desktop\repos\Adedapo14I
 C:\Users\AdedapoAluko(DM)\Dropbox (Leroy Haynes Center)\Desktop\repos\Adedapo14Intro\Adedapo14Intro\obj\Debug\net6.0\Adedapo14Intro.pdb
 C:\Users\AdedapoAluko(DM)\Dropbox (Leroy Haynes Center)\Desktop\repos\Adedapo14Intro\Adedapo14Intro\obj\Debug\net6.0\Adedapo14Intro.genruntimeconfig.cache
 C:\Users\AdedapoAluko(DM)\Dropbox (Leroy Haynes Center)\Desktop\repos\Adedapo14Intro\Adedapo14Intro\obj\Debug\net6.0\ref\Adedapo14Intro.dll
+C:\Users\AdedapoAluko(DM)\Dropbox (Leroy Haynes Center)\Desktop\repos\Adedapo14Intro\Adedapo14Intro\obj\Debug\net6.0\Adedapo14Intro.sourcelink.json
