@@ -23,11 +23,11 @@ public class Program
         {
             Console.WriteLine("You guessed too high!");
         }
-        else if(userGuess < favNumber)
+        if(userGuess < favNumber)
         {
             Console.WriteLine("You guessed too low!");
         }
-        else if(userGuess != favNumber)
+        else (userGuess != favNumber)
         {
             Console.WriteLine("You guessed wrong!");
         }
